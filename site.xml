@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Eclipse JDepChk Update Site" url="http://arrenbrecht.ch/jdepchk">
+      EDepChk is an Eclipse plugin for JDepChk, a class and package dependency checker.
+   </description>
+   <feature url="features/ch.parren.edepchk_1.0.0.201102240848.jar" id="ch.parren.edepchk" version="1.0.0.201102240848"/>
+</site>
