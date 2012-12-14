@@ -10,4 +10,5 @@
    <feature url="features/ch.parren.edepchk_1.0.0.201105182218.jar" id="ch.parren.edepchk" version="1.0.0.201105182218"/>
    <feature url="features/ch.parren.edepchk_1.0.0.201107121510.jar" id="ch.parren.edepchk" version="1.0.0.201107121510"/>
    <feature url="features/ch.parren.edepchk_1.0.0.201212032129.jar" id="ch.parren.edepchk" version="1.0.0.201212032129"/>
+   <feature url="features/ch.parren.edepchk_1.0.0.201212140850.jar" id="ch.parren.edepchk" version="1.0.0.201212140850"/>
 </site>
